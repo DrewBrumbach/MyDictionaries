@@ -89,7 +89,6 @@ def deal_cards(deck, number):
     if number > len(deck):
         number = len(deck)
     # Deal the cards and accumulate their values.
-    list_of_keys = []
 
     """
     for key in deck:
