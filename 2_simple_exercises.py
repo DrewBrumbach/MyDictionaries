@@ -17,7 +17,9 @@ dict = {
     "son's weight": 25,
 }
 
-
+print(dict["son's height"])
+dict["son's height"] += 2
+print(dict["son's height"])
 # 3) Given a Python dictionary, Change Brad’s salary to 8500
 
 sampleDict = {
