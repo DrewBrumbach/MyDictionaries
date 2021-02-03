@@ -122,24 +122,11 @@ print()
 """
 
 
-
-
 print()
-print('*****  start section 8 - using random and converting to list ********')
+print("*****  start section 8 - using random and converting to list ********")
 print()
 
 
-
-
 print()
-print('*****  end section 8 ********')
+print("*****  end section 8 ********")
 print()
-
-
-
-
-
-
-
-
-"""
